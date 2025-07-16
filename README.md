@@ -1,6 +1,6 @@
 <h1 align="center">Jaewon</h1>
 
-### 🛠 Tech Stack
+### Tech Stack
 > I'm leaning...
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=flat&logo=html5)
