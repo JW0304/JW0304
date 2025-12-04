@@ -21,11 +21,11 @@
 ---
 
 ### Projects
-#### [Tickget](https://github.com/Tickget/Tickget)
+#### [Tickget](https://github.com/Tickget)
 > 실전형 모의 티켓팅 사이트 (7주, 7명)  
 > React + TypeScript + Tailwind CSS + Material Design + Three.js + WebRTC + Cypress
 
-#### [Watt's Up](https://github.com/Ayo-WattsUp/WattsUp)
+#### [Watt's Up](https://github.com/Ayo-WattsUp)
 > 스마트싱스 연동 전력 사용량 앱 (7주, 6명)  
 > React + TypeScript + Tailwind CSS + React Native + Expo + Zustand
 
