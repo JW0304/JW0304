@@ -46,12 +46,12 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JW0304&show_icons=true&theme=graywhite&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JW0304&layout=compact&theme=graywhite&hide_border=true" height="150" />
 </p>
 
----
+--- -->
 
 ### Portfolio
 [![Portfolio](https://img.shields.io/badge/Portfolio-JW0304.github.io-000?style=flat)](https://jw0304.github.io)
