@@ -55,7 +55,7 @@
 
 ### Portfolio & Blog
 [![Portfolio](https://img.shields.io/badge/Portfolio-JW0304.github.io-000?style=flat)](https://jw0304.github.io)
-[![Blog](https://img.shields.io/badge/Blog-https://jw-blog.jwyang34.workers.dev/?style=flat)](https://jw-blog.jwyang34.workers.dev/)
+[![Blog](https://img.shields.io/badge/Blog-jw--blog-000?style=flat)](https://jw-blog.jwyang34.workers.dev/)
 
 ---
 
