@@ -37,6 +37,8 @@
 > 생성형 AI를 활용한 도서 추천 사이트 (1주, 2명)  
 > Vue.js + Django + Python + Bootstrap + AI API
 
+---
+
 ### Experience
 - SSAFY (삼성청년 SW AI 아카데미) (2025.01 ~ 2025.12)
 
