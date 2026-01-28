@@ -40,14 +40,14 @@
 ---
 
 ### Experience
-- 삼성청년 SW AI 아카데미 (SSAFY) - 2025.01 ~ 2025.12
+- 삼성청년 SW AI 아카데미 (SSAFY) 2025.01 - 2025.12
 
 ---
 
 ### Languages
 - **Korean** 🇰🇷 (Native)  
 - **Japanese** 🇯🇵 (JLPT N1)  
-- **English** 🇺🇸 (B1~B2)
+- **English** 🇺🇸 (B1-B2)
 
 ---
 
