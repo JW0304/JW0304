@@ -2,14 +2,9 @@
 
 ### Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=flat&logo=css)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript)
-<br>
 ![React](https://img.shields.io/badge/React-000?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/React%20Native-000?style=flat&logo=react)
-![Vue.js](https://img.shields.io/badge/Vue.js-000?style=flat&logo=vuedotjs)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000?style=flat&logo=tailwindcss)
 <br>
 ![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
@@ -46,7 +41,7 @@
 
 ### Languages
 - **Korean** 🇰🇷 (Native)  
-- **Japanese** 🇯🇵 (JLPT N1)  
+- **Japanese** 🇯🇵 (Business / JLPT N1) 
 - **English** 🇺🇸 (B1-B2)
 
 ---
