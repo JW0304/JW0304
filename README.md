@@ -18,8 +18,8 @@
 ### Projects
 
 #### 2026
-- IT Event Management Platform (TypeScript, React, FastAPI)
 - Internal Sales Information System (Java 11, Spring Boot, React)
+- IT Event Management Platform (TypeScript, React, FastAPI)
 - Corporate Website Renewal (React, Tailwind CSS)
 
 #### 2025
