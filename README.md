@@ -16,26 +16,30 @@
 ---
 
 ### Projects
-#### [Tickget](https://github.com/Tickget)
-> 실전형 모의 티켓팅 사이트 (7주, 7명)  
+
+#### 2026
+- IT Event Management Platform (TypeScript, React, FastAPI)
+- Internal Sales Information System (Java 11, Spring Boot, React)
+- Corporate Website Renewal (React, Tailwind CSS)
+
+#### 2025
+##### [Tickget](https://github.com/Tickget)
 > React + TypeScript + Tailwind CSS + Material Design + Three.js + WebRTC + Cypress
 
-#### [Watt's Up](https://github.com/Ayo-WattsUp)
-> 스마트싱스 연동 전력 사용량 앱 (7주, 6명)  
+##### [Watt's Up](https://github.com/Ayo-WattsUp)
 > React + TypeScript + Tailwind CSS + React Native + Expo + Zustand
 
-#### [HANDI](https://github.com/HANDI-CARE)
-> 스마트 노인 돌봄 사이트 (8주, 6명)  
+##### [HANDI](https://github.com/HANDI-CARE)
 > React + TypeScript + Tailwind CSS + Ant Design + Zustand + WebRTC
 
-#### [LIVRIA](https://github.com/JW0304/LIVRIA)
-> 생성형 AI를 활용한 도서 추천 사이트 (1주, 2명)  
+##### [LIVRIA](https://github.com/JW0304/LIVRIA)
 > Vue.js + Django + Python + Bootstrap + AI API
 
 ---
 
 ### Experience
-- 삼성청년 SW AI 아카데미 (SSAFY) 2025.01 - 2025.12
+- Samsung AI Software Academy for Youth (SSAFY) 2025.01 - 2025.12
+- Goorm Deepdive Fullstack Bootcamp 2026.01 - 2026.03
 
 ---
 
