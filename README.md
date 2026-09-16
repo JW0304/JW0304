@@ -18,9 +18,9 @@
 ### Projects
 
 #### 2026
-- Internal Sales Information System (Java 11, Spring Boot, React)
-- IT Event Management Platform (TypeScript, React, FastAPI)
-- Corporate Website Renewal (React, Tailwind CSS)
+- Internal Sales Information System (Backend / Java 11, Spring Boot, React)
+- IT Event Management Platform (Frontend / TypeScript, React, FastAPI)
+- Corporate Website Renewal (Frontend / React, Tailwind CSS)
 
 #### 2025
 ##### [Tickget](https://github.com/Tickget)
@@ -38,24 +38,18 @@
 ---
 
 ### Experience
-- Samsung AI Software Academy for Youth (SSAFY) 2025.01 - 2025.12
+- Software Engineer @ Asia Information Systems 2026.04 - Present
 - Goorm Deepdive Fullstack Bootcamp 2026.01 - 2026.03
+- Samsung AI Software Academy for Youth (SSAFY) 2025.01 - 2025.12
 
 ---
 
 ### Languages
 - **Korean** 🇰🇷 (Native)  
-- **Japanese** 🇯🇵 (Business / JLPT N1) 
+- **Japanese** 🇯🇵 (Business / JLPT N1, B.A. in Japanese Language and Literature) 
 - **English** 🇺🇸 (B1-B2)
 
 ---
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JW0304&show_icons=true&theme=graywhite&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JW0304&layout=compact&theme=graywhite&hide_border=true" height="150" />
-</p>
-
---- -->
 
 ### Portfolio & Blog
 [![Portfolio](https://img.shields.io/badge/Portfolio-JW0304.github.io-000?style=flat)](https://jw0304.github.io)
